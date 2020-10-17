@@ -1,6 +1,6 @@
 ## Projects
 
-**Learning Physical Constraints with Neural Projections** [website] (./projects/neuralProj/).
+**Learning Physical Constraints with Neural Projections** [website](./projects/neuralProj/)
 
 ## Welcome to GitHub Pages
 
