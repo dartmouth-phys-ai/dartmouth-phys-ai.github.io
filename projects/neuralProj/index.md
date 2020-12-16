@@ -4,4 +4,4 @@
 
 [code](https://github.com/dartmouth-phys-ai/neural_proj)
 
-<iframe  src="https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4">
+<iframe width=60% src="https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4">
