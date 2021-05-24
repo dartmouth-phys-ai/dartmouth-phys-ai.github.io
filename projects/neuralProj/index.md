@@ -11,8 +11,8 @@
 ## Paper 
 **Learning Physical Constraints with Neural Projections**  
 Neural Information Processing Systems (NeurIPS 2020)  
-Shuqi Yang, Xingzhe He, Bo Zhu  
-[[paper](https://arxiv.org/abs/2006.12745)] [[code](https://github.com/dartmouth-phys-ai/neural_proj)]  [[website](https://dartmouth-phys-ai.github.io/projects/neuralProj/)]  
+[Shuqi Yang<sup>1</sup>](https://y-sq.github.io/), [Xingzhe He<sup>1</sup>](https://xingzhehe.github.io/), and [Bo Zhu<sup>1</sup>](https://www.cs.dartmouth.edu/~bozhu/)  
+**[[paper](https://arxiv.org/abs/2006.12745)]** **[[code](https://github.com/dartmouth-phys-ai/neural_proj)]**  **[[website](https://dartmouth-phys-ai.github.io/projects/neuralProj/)]**  
 
 
 ## Video / Results
