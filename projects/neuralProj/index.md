@@ -1,13 +1,26 @@
+
 # Learning Physical Constraints with Neural Projections
 
-## Code && Paper
-[[Code]](https://github.com/dartmouth-phys-ai/neural_proj)  
-[[Paper]](https://arxiv.org/abs/2006.12745)
+[Shuqi Yang<sup>1</sup>](https://y-sq.github.io/), [Xingzhe He<sup>1</sup>](https://xingzhehe.github.io/), and [Bo Zhu<sup>1</sup>](https://www.cs.dartmouth.edu/~bozhu/)  
+<sup>1</sup>Dartmouth College
 
-## Video
-<video src="https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4" controls="controls" width="60%">Video: https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4</video>
+
+## Paper 
+**Learning Physical Constraints with Neural Projections**  
+Neural Information Processing Systems (NeurIPS 2020)  
+Shuqi Yang, Xingzhe He, Bo Zhu  
+[[paper](https://arxiv.org/abs/2006.12745)] [[code](https://github.com/dartmouth-phys-ai/neural_proj)]  [[website](https://dartmouth-phys-ai.github.io/projects/neuralProj/)]  
+
+
+## Video / Results
+<video src="https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4" controls="controls" width="75%">Video: https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4</video>
 
 ## Citation
-Please cite this paper if you want to use it in your work:
-
-**[To add]**
+```
+@inproceedings{yang2020learning,
+  title={Learning Physical Constraints with Neural Projections},
+  author={Yang, Shuqi and He, Xingzhe and Zhu, Bo},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year={2020}
+}
+```
