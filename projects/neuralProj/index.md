@@ -4,6 +4,9 @@
 [Shuqi Yang<sup>1</sup>](https://y-sq.github.io/), [Xingzhe He<sup>1</sup>](https://xingzhehe.github.io/), and [Bo Zhu<sup>1</sup>](https://www.cs.dartmouth.edu/~bozhu/)  
 <sup>1</sup>Dartmouth College
 
+<br>
+
+<img src="img/overview.png"/>
 
 ## Paper 
 **Learning Physical Constraints with Neural Projections**  
@@ -13,7 +16,8 @@ Shuqi Yang, Xingzhe He, Bo Zhu
 
 
 ## Video / Results
-<video src="https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4" controls="controls" width="75%">Video: https://www.dartmouth.edu/~boolzhu/videos/neural_projection.mp4</video>
+<video src="https://www.cs.dartmouth.edu/~bozhu/videos/neural_projection.mp4" controls="controls" width="80%">Video: https://www.cs.dartmouth.edu/~bozhu/videos/neural_projection.mp4</video>
+
 
 ## Citation
 ```
