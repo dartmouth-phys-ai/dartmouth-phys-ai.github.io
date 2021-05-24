@@ -16,7 +16,7 @@ Shuqi Yang, Xingzhe He, Bo Zhu
 
 
 ## Video / Results
-<video src="https://www.cs.dartmouth.edu/~bozhu/videos/neural_projection.mp4" controls="controls" width="80%">Video: https://www.cs.dartmouth.edu/~bozhu/videos/neural_projection.mp4</video>
+<video src="https://www.cs.dartmouth.edu/~bozhu/videos/neural_projection.mp4" controls="controls" width="100%">Video: https://www.cs.dartmouth.edu/~bozhu/videos/neural_projection.mp4</video>
 
 
 ## Citation
